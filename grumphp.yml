@@ -9,4 +9,4 @@ grumphp:
             whitelist_patterns:
                 - 'src'
             ruleset:
-                - 'phpmd.xml'#
+                - 'phpmd.xml'
