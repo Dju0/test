@@ -9,7 +9,7 @@ class HomeController extends AbstractController
      */
     public function index(): string
     {
-        echo "je test encore2";
+        echo "je test encore2vv ";
         return $this->twig->render('Home/index.html.twig');
     }
 }
